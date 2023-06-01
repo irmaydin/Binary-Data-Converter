@@ -1,5 +1,4 @@
 
-	// 1500120013 Irem Aydin - 150120009 Hatice Yavuzsan - 150120053 Necati Kocak -150121013 Irem Kiranmezar
 	
 import java.io.BufferedReader;
 import java.io.File;
@@ -11,7 +10,7 @@ import java.text.DecimalFormat;
 import java.util.HashMap;
 import java.util.Scanner;
 
-public class _150120013_150120009_150120053_150121013{
+public class Main{
 
     // Hexadecimal to Binary method
     static String hexToBinary(String hex) {
